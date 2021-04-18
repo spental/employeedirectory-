@@ -1,0 +1,25 @@
+/* we need css for nav links to render pretty */
+/* can just put styling here rather than having different 
+styling for each page */
+
+
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+html, body, #root {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+
+
+/* from original react set up */
+ .App {
+  text-align: center;
+}
+
+
+
+
